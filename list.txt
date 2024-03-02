@@ -1,11 +1,11 @@
-蓝光,#genre#
+
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.65.142/PLTV/88888888/224/3221225816/index.m3u8
-超级电影，http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225717/1.m3u8
+蓝光，#流派#
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://39.134.65.141/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://39.134.65.142/PLTV/88888888/224/3221225799/index.m3u8
-超级电影，http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225717/index.m3u8
+超级电影，http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225717/1.m3u8
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5,http://39.134.65.141/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5,http://39.134.65.142/PLTV/88888888/224/3221225818/index.m3u8
@@ -33,7 +33,7 @@ CCTV12,http://39.134.65.142/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://39.134.65.208/PLTV/88888888/224/3221225669/index.m3u8
 CCTV12,http://39.134.66.2/PLTV/88888888/224/3221225669/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-动作电影，http：//[2409:8087:2001:20:2800:0:df6e:eb06]：80/PLTV/1/224/3221230467/1.m3u8
+超级电影，http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225717/index.m3u8
 CCTV13,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV14,http://39.134.65.141/PLTV/88888888/224/3221225674/index.m3u8
 CCTV14,http://39.134.65.142/PLTV/88888888/224/3221225674/index.m3u8
