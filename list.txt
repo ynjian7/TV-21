@@ -683,8 +683,6 @@ VIUtv,https://s2.pub/cctv-7
 卡酷少儿,http://58.32.42.31:4022/udp/239.45.1.49:5140
 卡酷少儿,http://a.jack4096.top:10001/udp/239.45.0.8:5140
 卡酷少儿,http://aiyun.work.gd/jd.php?id=卡酷少儿
-
-
 民视,P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
