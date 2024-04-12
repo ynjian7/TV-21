@@ -1,6 +1,10 @@
 
 {
   "sites": [
+{"key":"老鸭资源","name":"老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"森林资源","name":"森林资源","type":1,"api":"https://slapibf.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+{"key":"毛狗资源","name":"毛狗资源","type":1,"api":"https://caiji.semaozy.net/inc/api.php","searchable":1,"quickSearch":1},
 {"key": "番茄资源","name": "番茄资源","type": 0,"api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/","playUrl":"https://jx.fqzy.cc/jx.php?url=","categories": []},
 {"key": "畅视影视","name": "畅视影视","type": 1,"api": "http://app.reboju.net/api.php/provide/vod/","playUrl":"","categories": []},
 {"key": "艾特","name": "艾特","type": 0,"api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml","playUrl":"","categories": []},
