@@ -16,11 +16,22 @@
   {"key": "xgapp","name": "🍉┃西瓜┃v3","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
   {"key": "骑骑影院","name": "🚵┃骑骑┃v3","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
   {"key":"南瓜","name":"南瓜","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
+
+
+{"key":"极速资源2","name":"极速资源2","type":1,"api":"https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+  {"key": "极速资源3", "name": "极速资源3", "type":0, "api": "https://jszyapi.com/api.php/provide/vod/at/xml"},
+
+
+{"key":"豪华资源2","name":"豪华资源2","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+  {"key": "豪华资源3", "name": "豪华资源3", "type":0, "api": "https://hhzyapi.com/api.php/provide/vod/at/xml"},
+
+ {"key":"乐视资源2","name":"乐视资源2","type":1,"api":"https://leshiapi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
+  {"key": "乐视资源3", "name": "乐视资源3", "type":0, "api": "https://leshiapi.com/api.php/provide/vod/at/xml"},
 	
   {"key":"速播资源","name":"速播资源","type":1,"api":"https://subocaiji.com/api.php/provide/vod","searchable":1,"quickSearch":1},
   {"key":"速播资源2","name":"速播资源2","type":1,"api":"https://subocaiji.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-  {"key": "速播资源3", "name": "速播资源3", "type":0, "api": " https://subocaiji.com/api.php/provide/vod/at/xml"},
-  {"key": "熊猫影视", "name": "熊猫影视", "type":0, "api": " https://tvdb.top/api.php/provide/vod/at/xml"},
+  {"key": "速播资源3", "name": "速播资源3", "type":0, "api": "https://subocaiji.com/api.php/provide/vod/at/xml"},
+  {"key": "熊猫影视", "name": "熊猫影视", "type":0, "api": "https://tvdb.top/api.php/provide/vod/at/xml"},
   {"key": "淘宝影视", "name": "淘宝影视", "type":0, "api": "https://xinwangys.com/cjapi/ct/vod/xml.html"},
   {"key": "可可资源", "name": "可可资源", "type":1, "api": "https://caiji.kekezyapi.com/api.php/provide/vod/at/xml"},
   {"key":"可可资源2","name":"可可资源2","type":1,"api":"https://caiji.kekezyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	
