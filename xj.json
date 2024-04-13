@@ -1,5 +1,5 @@
 {
-"spider":"https://ghproxy.net/raw.githubusercontent.com/ltxxjs/TVBox-pizazzgy/main/spider.jar",
+"spider":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
 "lives":[{"name":"大田沟","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/pp.xml","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
