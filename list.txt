@@ -1,7 +1,5 @@
 中央频道,#genre#
-CCTV1,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-CCTV1,http://tvpull.dxhmt.cn/tv/11081-2.m3u8?zhend
-CCTV1,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
+
 CCTV1,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
 CCTV1,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
@@ -12,7 +10,7 @@ CCTV1,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
-CCTV2,http://124.115.205.101:8888/newlive/live/hls/3/live.m3u8
+
 CCTV2,http://125.210.152.19:9121/live/hzgq-cctv2gq-h264.m3u8
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
@@ -33,7 +31,7 @@ CCTV2,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV2,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV2,http://mywlkj.ddns.net:754/tv/cctv2.m3u8
-CCTV3,http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
+
 CCTV3,http://125.210.152.19:9123/live/hzgq-cctv3gq-h264.m3u8
 CCTV3,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
