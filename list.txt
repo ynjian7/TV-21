@@ -1,12 +1,6 @@
 中央频道,#genre#
 
-CCTV1,https://liveplay-srs.voc.com.cn/hls/tv/158_423c80.m3u8
-CCTV1,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV1,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV1,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
+
 CCTV1,http://play.kankanlive.com/live/1661761962676984.m3u8
 CCTV1,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
