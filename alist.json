@@ -1,9 +1,42 @@
 {
   "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
   "drives": [
-    {
-      "name": "小雅",
-      "server": "http://alist.xiaoya.pro"
+  {
+      "name": "目瞪狗呆",
+      "server": "https://pan.mdgd.cc/"
+    },
+
+{
+      "name": "槿南盘 ",
+      "server": "https://jnpan.top/"
+    },
+{
+      "name": "它pan",
+      "server": "https://tapan.cc/"
+    },
+{
+      "name": "xiao",
+      "server": "https://alist.xiaowine.cc/Aliyun/Video"
+    },
+{
+      "name": "dpan",
+      "server": "https://dpan.com.cn/2-%E5%BD%B1%E8%A7%86"
+    },
+{
+      "name": "hta",
+      "server": "http://test.hta.ink/"
+    },
+{
+      "name": "arley",
+      "server": "https://pan.arley.cn/zh-CN/Movies/"
+    },
+{
+      "name": "ecve",
+      "server": "https://pan.ecve.cn/"
+    },
+{
+      "name": "110014+",
+      "server": "https://pan.110014.xyz/"
     },
    {
       "name": "七米藍",
@@ -41,24 +74,20 @@
    },
   
    {
-      "name": "☃️姬路白雪",
-      "server": "https://pan.jlbx.xyz"
+      "name": "星梦",
+      "server": "https://pan.bashroot.top/"
    },
  
     {
       "name": "範本",
-      "server": "https://one.fongmi.com",
+      "server": "https://jnpan.top/",
       "search": true,
       "hidden": false,
       "login": {
-        "username": "fongmi",
-        "password": "fongmi"
+        "username": " ",
+        "password": " "
       },
-      "params": [
-        {
-          "path": "/安齋拉拉",
-          "pass": "18181818"
-        }
+      }
       ]
     }
   ]
