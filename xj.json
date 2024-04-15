@@ -90,10 +90,7 @@
 {"key":"一乐资源","name":"一乐资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"changeable":1},
 {"key":"42资源","name":"42资源","type":1,"api":"https://www.2222.la/api.php/provide/vod","searchable":1,"changeable":1},
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy.me/api.php/provide/vod","searchable":1,"changeable":1},
-{"key":"AI1","name":"AI1","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","searchable":1,"changeable":1},
-
-
-
+{"key":"AI1","name":"AI1","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","searchable":1,"changeable":1}],
 
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
