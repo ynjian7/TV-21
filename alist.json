@@ -17,6 +17,34 @@
       "name": "梓澪",
       "server": "https://zi0.cc"
     },
+{
+      "name": "🙋丫仙女",
+      "server": "http://alist.xiaoya.pro/",
+      "startPage": "/",
+      "showAll": false,
+      "search": true,
+      "headers": {
+         "Authorization": ""
+      },
+      "params": {
+         "/abc": {
+            "password": "123"
+         },
+         "/abc/abc": {
+            "password": "123"
+         }
+      }
+   },
+   {
+      "name": "🐋一只鱼",
+      "server": "https://alist.youte.ml"
+   },
+  
+   {
+      "name": "☃️姬路白雪",
+      "server": "https://pan.jlbx.xyz"
+   },
+ 
     {
       "name": "範本",
       "server": "https://one.fongmi.com",
