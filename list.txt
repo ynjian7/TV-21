@@ -83,8 +83,6 @@ CCTV14,https://epg.pw/stream/6dbe9409e344cd6ab113ba8cb1d0f675f7c9e00b968f8e80a5b
 凤凰资讯,https://youtube.livednow.com/stream/0K6C6Rv4RR4_
 ABC,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 AXN,http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
-CINEMAX,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
-CM+,http://ali.hlspull.yximgs.com/live/cmjia4568264t3a88221300dhoadhlabhkkl.flv
 CNA,http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
