@@ -38,6 +38,28 @@
 {"key": "xysgc_spider","name": "@新影視工廠","type": 2,"api": "Gy35wr8J2YUrtC","playUrl": "","quickSearch": 0,"filterable": 1},
 {"key": "kby_spider","name": "@恐怖鴨","type": 2,"api": "ZdZYGB9BcfXR6W","playUrl": "","quickSearch": 0,"filterable": 1},
 
+{"key":"奶香香","name":"奶香香","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"changeable":1},
+{"key":"海洋采集","name":"海洋采集","type":1,"api":"https://kkzy.me/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"玉兔资源","name":"玉兔资源","type":1,"api":"https://apiyutu.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1},
+{"key":"新浪资源","name":"新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod","searchable":1,"changeable":1},
+{"key":"享看资源","name":"享看资源","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"嘿看资源","name":"嘿看资源","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"橘猫资源","name":"橘猫资源","type":1,"api":"https://to.to-long.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"155资源","name":"155资源","type":1,"api":"https://155api.com/api.php/Seacms/vod","searchable":1,"changeable":1},
+{"key":"互利资源","name":"互利资源","type":1,"api":"https://www.hulizyw.com/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"一乐资源","name":"一乐资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"changeable":1},
+{"key":"42资源","name":"42资源","type":1,"api":"https://www.2222.la/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy.me/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"AI1","name":"AI1","type":1,"api":"http://124.222.116.5/macos/seven/api.php/provide/vod/","searchable":1,"changeable":1},
+{"key":"lbapi9","name":"lbapi9","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"apilyzy.","name":"apilyzy.","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"apittzy.","name":"apittzy","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"甜蜜资源","name":"甜蜜资源","type":1,"api":"https://timizy10.cc/api.php/provide/vod","searchable":1,"changeable":1},
+{"key":"kkzy","name":"kkzy","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+
+
 {"key": "1丝","name": "1丝","type": 0,"api": "https://siwazyw.cc/api.php/provide/vod/at/xml/","playUrl":"","categories": []},
 {"key": "1葡","name": "1葡","type": 1,"api": "https://api.putaozy.net/inc/apijson_vod.php","playUrl":"","categories": []},
 {"key": "1魁","name": "1魁","type": 1,"api": "https://caiji.huakuiapi.com/inc/apijson_vod.php","playUrl":"","categories": []},
