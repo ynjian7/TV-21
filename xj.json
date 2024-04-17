@@ -4,16 +4,24 @@
 "wallpaper":"https://fanmingming.com/bing",
 "sites":[
 
+{"key":"csp_xb_2meiju","name":"2meiju","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.2meiju.cc{cateId}--------{catePg}---.html"},
 
-{"key":"csp_xb_zbk","name":"01真不卡","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_ysgc","name":"02影视工厂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/{cateId}-{catePg}.html"},
-{"key":"csp_xb_cokemv","name":"03cokemv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_达达龟","name":"04达达龟[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_shm","name":"05神马影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
-{"key":"csp_xb_fg","name":"06疯狗影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
+{"key":"csp_xb_zbk","name":"01真不卡","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_ysgc","name":"02影视工厂","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc//{cateId}-{catePg}.html"},
+{"key":"csp_xb_cokemv","name":"03cokemv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc//{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_达达龟","name":"04达达龟[XBiu]","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc//{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_shm","name":"05神马影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc//{cateId}-{area}--{class}-----{catePg}---{year}.html"},
+{"key":"csp_xb_fg","name":"06疯狗影视","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc//list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html"},
 
+{"key":"csp_xb_ttm","name":"ttm","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ttmja.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_libv","name":"libv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.one/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_mjw","name":"mjw","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc1.cc//{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_wap","name":"wap","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wap.ijujitv.cc/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_notv","name":"notv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.notv.cc/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_2meiju","name":"2meiju","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.2meiju.cc{cateId}--------{catePg}---.html"},
 
-
+{"key":"csp_xb_zxzj2024","name":"zxzj2024","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zxzj2024.com/index.html{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_zxzj","name":"zxzj","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zxzj.pro/{cateId}--------{catePg}---.html"},
 
 {"key":"大田沟","name":"大田沟","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":1},
  {"key":"少泽影客","name":"少泽影客","type":1,"api":"https://yk.shaozeyy.com/api.php/app/","searchable":1,"changeable":1},
