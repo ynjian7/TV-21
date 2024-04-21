@@ -3,6 +3,22 @@
 "lives":[{"name":"大田沟","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://fanmingming.com/bing",
 "sites":[
+     {
+      "key": "暴風",
+      "name": "暴風",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "索尼",
+      "name": "索尼 ",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
 {"key":"csp_xb_dagu","name":"188","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_dagu","name":"0582","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wniutv.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_dagu","name":"0583","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.5gatv.com/{cateId}--------{catePg}---.html"},
