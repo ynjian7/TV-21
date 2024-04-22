@@ -1,7 +1,7 @@
 {
 "spider":"https://ghproxy.net/raw.githubusercontent.com/qjlxg28/TV/main/spider.jar",
 "lives":[{"name":"大田沟","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg28/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-"wallpaper":"https://fanmingming.com/bing",
+"wallpaper":"https://ghproxy.net/raw.githubusercontent.com/qjlxg28/TV/main/BingWallpaper (2).jpg",
 "sites":[
  {"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/lf_search3_min.js","ext":"1"},
  {"key":"业余","name": "100 ","type": 1,"api":"http://154.3.2.163/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},    
