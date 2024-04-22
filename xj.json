@@ -4,13 +4,8 @@
 "wallpaper":"https://ghproxy.net/raw.githubusercontent.com/qjlxg28/TV/main/BingWallpaper (2).jpg",
 "sites":[
  {"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/lf_search3_min.js","ext":"1"},
-{
-            "key": "drpy_js_LIBVIO",
-            "name": "影视 | LIBVIO[js]",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/LIBVIO.js"
-        },
+{"key":"csp_xb_dagu","name":"0208","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.fun/{cateId}--------{catePg}---.html"},
+
 {"key":"csp_xb_dagu","name":"0208","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.cqhpjn.com/index.html/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_dagu","name":"0209","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dmla5.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_dagu","name":"0210","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.365kanxi.net/{cateId}--------{catePg}---.html"},
