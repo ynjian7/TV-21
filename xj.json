@@ -4,6 +4,26 @@
 "wallpaper":"https://ghproxy.net/raw.githubusercontent.com/qjlxg28/TV/main/BingWallpaper (2).jpg",
 "sites":[
  {"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/lf_search3_min.js","ext":"1"},
+{
+            "key": "drpy_js_LIBVIO",
+            "name": "影视 | LIBVIO[js]",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/LIBVIO.js"
+        },
+{"key":"csp_xb_dagu","name":"0208","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.cqhpjn.com/index.html/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0209","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dmla5.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0210","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.365kanxi.net/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0211","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.92kyy.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0212","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.kan-ju.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0213","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.hangyanggroup.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0214","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dy.jingdianlaoge.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0215","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.jiajia33.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0216","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wjys1.cc/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0217","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tqys.cc/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0218","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.51zhuiju.cc/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0207","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://nnyy.in/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_dagu","name":"0205","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yingshi.tv/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_dagu","name":"0204","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dadagui.me/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_nul","name":"0440","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.90nunu.cc/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_fto","name":"0441","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.lft1.com/{cateId}--------{catePg}---.html"},
@@ -51,7 +71,6 @@
 {"key":"csp_xb_enxi","name":"0429","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xbsee8.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_yck","name":"0425","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xbfenxiang.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_dyw","name":"0420","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.yck0.cn/{cateId}--------{catePg}---.html"},
-
 {"key":"csp_xb_kyy","name":"A","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xiaoxiaoquan.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_okdy","name":"B","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.skyy5.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_zrs","name":"C","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.okdygood.com/{cateId}--------{catePg}---.html"},
@@ -60,8 +79,6 @@
 {"key":"csp_xb_cgw","name":"135","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgcgw.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_yhmgo","name":"98","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yhmgo.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_yijia","name":"75","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yijia5.com/{cateId}-{catePg}.html"},
-
-{"key":"csp_xb_ttm","name":"ttm","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ttmja.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_libv","name":"libv","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.one/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_mjw","name":"mjw","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.mjwo.net/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_wap","name":"wap","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://wap.ijujitv.cc/{cateId}--------{catePg}---.html"},
@@ -70,8 +87,6 @@
 {"key":"csp_xb_zxzj","name":"zxzj","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zxzj.pro/{cateId}--------{catePg}---.html"},
  {"key":"csp_xb_/siguyy","name":"04","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zxzja.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_tv","name":"05","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hant.cc/{cateId}--------{catePg}---.html"},
-
-
 {"key":"csp_xb_/siguyy","name":"06","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.meijukankan.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_/siguyy","name":"07","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.siy.cc/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_/siguyy","name":"08","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91mjtv.com/{cateId}--------{catePg}---.html"},
