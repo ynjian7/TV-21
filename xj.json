@@ -5,7 +5,7 @@
 "sites":[
 
  {"key": "首页","name":"首页","type": 3,"api":"csp_XBPQ","ext": {"分类url":"https://www.dy110.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
-", "分类":"电影$1#电视剧$2#儿童$https://www.hfgrandtheatre.com/yhdm/2.html#短剧$https://www.dy110.com/index.php/vod/show/id/85.html#电影解说$92#综艺$3#动漫$4#" } },
+", "分类":"电影$1#电视剧$2#短剧$https://www.dy110.com/index.php/vod/show/id/85.html#电影解说$92#综艺$3#动漫$4#"儿童$https://www.hfgrandtheatre.com/yhdm/2.html# } },
 
 
 {"key":"csp_xb_ork","name":"24471","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ork.ink/label/new.html/{cateId}--------{catePg}---.html"},
