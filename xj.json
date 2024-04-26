@@ -5,9 +5,10 @@
 "sites":[
 {"key": 首页","name":"首页","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://www.ruiding3bu.com/ruvodshow/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
 ", "分类":"电影$dianying-----------.html#电视剧$dianshiju-----------.html#豆瓣电影Top250$42-----------.html#电影解说$https://www.dy110.com/index.php/vod/type/id/92.html#短剧$https://www.dy110.com/index.php/vod/show/id/85.html#动漫$dongman-----------.html#综艺$zongyi-----------.html#" } },
+{"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/lf_search3_min.js","ext":"1"},
+ {"key":"iqyi资源","name":"06149","type":1,"api":"http://iqyi.xiaohuangrentv.com/api.php/provide/vod","searchable":1,"changeable":1},
 
  {"key":"业余","name": "06100 ","type": 1,"api":"http://154.3.2.163/api.php/provide/vod/","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},    
- {"key":"iqyi资源","name":"06149","type":1,"api":"http://iqyi.xiaohuangrentv.com/api.php/provide/vod","searchable":1,"changeable":1},
  {"key":"享看资源","name":"06160","type":1,"api":"https://xkanzy10.com/api.php/provide/vod","searchable":1,"changeable":1},
  {"key":"7喜资源","name":"06163","type":1,"api":"http://www.51zhuiju.cc//api.php/provide/vod/","searchable":1,"changeable":1},
  {"key":fsys","name":"06159","type":1,"api":"https://fszy1.com/api.php/provide/vod/","searchable":1,"changeable":1},
@@ -101,7 +102,6 @@
 
 
 
-{"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/lf_search3_min.js","ext":"1"},
 
 {"key":"csp_xb_xzjd24","name":"12024","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zxzj2024.com/index.html{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_aork","name":"24470","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://9ciyuan.com/{cateId}--------{catePg}---.html"},

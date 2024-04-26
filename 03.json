@@ -5,9 +5,11 @@
 {"key":"ys","name":"ys","type":1,"api":"https://www.yszy02.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"bl","name":bl","type":1,"api":"https://bljiex.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
-
+{"key":"csp_xb_zkck4","name":"12055","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tianlong77.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_zkek5","name":"12056","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://939394.xyz/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_ad2y","name":"01056","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kanjua.com/{cateId}--------{catePg}---.html"},
 {"key":"jk","name":"jk","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+
 {"key":"ap","name":"ap","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"ao","name":"ao","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"bat ","name":"bat ","type":1,"api":"http://api.11bat.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -41,6 +43,39 @@
 {"key":"csp_xb_dgud","name":"009","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jysp4.christmas/cn/home/web/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_xeba","name":"010","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91mju.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_afdy","name":"011","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://rouva2.xyz/home{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_maai","name":"01051","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.miaidy.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_vcd","name":"04024","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.138vcd.com/{cateId}--------{catePg}---.html"},
+{"key":"18AV","name":"18AV","type":3,"api":"csp_Eighteen","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.485}},
+{"key":"Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.77}},
+{"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
+{"key":"Hanime","name":"Hanime","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
+{"key":"玉兔资源","name":"玉兔资源","type":0,"api":"https://apiyutu.com/api.php/provide/vod/at/xml/","searchable":1,"style":{"type":"rect","ratio":1.333},"quickSearch":1},
+{"key":"drpy_js_ss直播","name":"ss直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ss直播.js","timeout":30},
+{"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
+{"key":"drpy_js_玩偶姐姐","name":"玩偶姐姐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/玩偶姐姐.js"},
+{"key":"drpy_js_朱古力","name":"朱古力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/朱古力.js"},
+{"key": "奥斯卡资源网","name": "奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
+{"key":"wmcj8.com","name":"可可05","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"apilj.com","name":"可可06","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"91md.me","name":"可可07","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"dadiapi.com","name":"可可09","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"llzxcj.com","name":"可可11","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"bttcj.com","name":"可可12","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"f2dcj6.com","name":"可可14","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"api.11bat.com","name":"可可15","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"api.maozyapi.com","name":"可可16","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"apittzy.com","name":"可可18","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"gdlsp.com","name":"可可19","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"msnii.com","name":"可可20","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"xrbsp.com","name":"可可21","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"kxgav.com","name":"可可22","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"kkzy.me","name":"可可23","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"shayuapi.com","name":"可可24","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"afasu.com","name":"可可25","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"lbapi9.com","name":"可可26","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"api.apilyzy.com","name":"可可27","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+
+
 
 
 
@@ -105,7 +140,7 @@
 {"key":"*麻豆视频","name":"*麻豆视频","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*一本道资源","name":"*一本道资源","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*草榴视频","name":"*草榴视频","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":0,"quickSearch":0},
-{"key":"*亚洲成人在线","name":"*亚洲成人在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"*亚洲可可在线","name":"*亚洲可可在线","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*天噜啦资源","name":"*天噜啦资源","type":0,"api":"http://www.987caiji.com/api/max.php","searchable":0,"quickSearch":0},
 {"key":"*99资源","name":"*99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*010爱资源","name":"*010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":0,"quickSearch":0},
@@ -496,8 +531,8 @@
             "filterable": 0
         },
         {
-            "key": "*亚洲成人在线",
-            "name": "🔞亚洲成人在线",
+            "key": "*亚洲可可在线",
+            "name": "🔞亚洲可可在线",
             "type": 0,
             "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml",
             "searchable": 0,
