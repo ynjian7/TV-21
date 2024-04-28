@@ -12,20 +12,23 @@
 {
 "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar#https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
 "lives":[{"name":"0","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-"wallpaper":"https://ghproxy.net/raw.githubusercontent.com/qjlxg28/TV/main/BingWallpaper (2).jpg",
+"wallpaper":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/BingWallpaper (2).jpg",
 "sites":[
 
 
+
+
+
+
+
+
+		
 {"key": "露天电影","name":"露天电影","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://auete.pro/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
 ", "分类":"电影$https://auete.pro/Movie/index.html#电视剧$https://auete.pro/Tv/index.html#综艺$https://auete.pro/Zy/index.html#动漫$https://auete.pro/Dm/index.html#解说$https://auete.pro/jieshuo/index.html#" } },
 
-
-
-{"key": "my","name":"my","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://www.kkw300.com/vodtype/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
+{"key": "kkw","name":"kkw","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://www.kkw300.com/vodtype/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
 ", "分类":"电影$1.html#电视剧$2.html#综艺$3.html#动漫$4.html#专题$https://www.myd02.com/label/new.html#"  } },
 
-{"key": "电影","name":"电影","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://www.ork.ink/type/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
-", "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$42#纪录片$5" } },
  {"key":"豆瓣","name":"大露天电影","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/douban.json"},
   {"key":"drpy_js_豆瓣","name":"小露天电影","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"quickSearch":0,"changeable":1},
   {"key":"lf_js_search","name":"搜索","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/lf_search3_min.js","ext":"1"},
@@ -33,8 +36,6 @@
 ", "分类":"电影$1#电视剧$2#短剧$https://www.dy110.com/index.php/vod/show/id/85.html#电影解说$92#综艺$3#动漫$4#儿童$https://www.hfgrandtheatre.com/yhdm/2.html#" } },
 {"key": "w5cin","name":"w5cin","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://w5cin.com/vodshow/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
 ", "分类":"电影$1-----------.html#电视剧$2-----------.html#综艺$3-----------.html#动漫$4-----------.html#专题$124-----------.html#"  } },
-{"key": "ork3","name":"ork3","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://www.ork.ink/type/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
-", "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$42#纪录片$5" } },
 {"key": "newfii","name":"newfii","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 0,"api":"csp_XBPQ","ext": {"分类url":"https://www.newfii.com/vodtype/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
 ", "分类":"电影$1#电视剧$2#综艺$3#动漫$4#" } },
 {"key": "fan","name":"fan","type": 3,"api":"csp_XBPQ","ext": {"分类url":"https://www.fantuantvb.com/t/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
@@ -43,6 +44,13 @@
 ", "分类":"电影$1-----------/#电视剧$2-----------/#综艺$3-----------/#动漫$4-----------/#利$27-----------/#"} },
 {"key": "kan","name":"kan","type": 3,"api":"csp_XBPQ","ext": {"分类url":"http://kan.znds.com/{cateId}/area/{area}/by/{by}/letter/{letter}/page/{catePg}/year/{year}.html
 ", "分类":"电影$movie/#电视剧$tv/#综艺$zongyi/#动漫$dongman/#少儿$shaoer/#专题$zt/#"  } },
+{"key":"csp_gfay","name":"08450","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://txtv225.me/{cateId}--------{catePg}---.html"},
+{"key":"csp_gfby","name":"08451","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.12gy.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_gfcy","name":"08452","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.tvyb03.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_gfdy","name":"08453","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cupfoxappp.com/{cateId}--------{catePg}---.html"},
+{"key":"csp_gfey","name":"08454","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.88hd.org/{cateId}--------{catePg}---.html"},
+{"key":"csp_gfwy","name":"08455","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.92tv.net/{cateId}--------{catePg}---.html"},
+{"key":"csp_gfqy","name":"08456","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.jxshenzhoukj.com/{cateId}--------{catePg}---.html"},
 
 {"key":"csp_gfmy","name":"24454","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.newfii.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_tadmy","name":"61063","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.myd02.com/{cateId}--------{catePg}---.html"},
@@ -90,7 +98,7 @@
 {"key":"csp_gbmy","name":"24450","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"hhttps://dydyy.vip/{cateId}--------{catePg}---.html"},
 {"key":"csp_gcmy","name":"24451","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.kpkuang.us/{cateId}--------{catePg}---.html"},
 {"key":"csp_gdmy","name":"24452","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ysgcfun.com/{cateId}--------{catePg}---.html"},
-{"key":"csp_gemy","name":"24453","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.diyimeiju.cc/index.html{cateId}--------{catePg}---.html"},
+//{"key":"csp_gemy","name":"24453","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.diyimeiju.cc/index.html{cateId}--------{catePg}---.html"},
 {"key":"csp_ggmy","name":"24455","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.netflixgc.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_ghmy","name":"24456","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://m.zxzjtvb.com/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_tian","name":"24433","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tianlong77.com/{cateId}--------{catePg}---.html"},
