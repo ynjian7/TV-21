@@ -32,8 +32,13 @@
 {"key":"csp_xb_xced","name":"24429","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.kkw300.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_taan","name":"244022","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.piankezx.tv/vodtype/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_fgfyy","name":"12175","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://keke2.app/show/{cateId}--------{catePg}---.html"},
-
-{"key": "csp_New6v","name": "6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com/"}
+{"key":"csp_xb_tkfk6","name":"12155","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wangfei.la/vod-show-id-{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_tdajy","name":"61059","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.chengtv.cc/czdshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_tkwk8","name":"12158","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://naifei.in/vod/show/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_lgayy","name":"12070","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.lgyy.vip/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_lgcyy","name":"12072","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dmxq1x.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_lgdyy","name":"12073","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://dami10.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_lgfyy","name":"12075","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.74qs.net/whole/{cateId}--------{catePg}---.html"}
 
 
 
