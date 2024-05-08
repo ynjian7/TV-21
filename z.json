@@ -12,7 +12,7 @@
 {
 "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar#https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
 "lives":[{"name":"0","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-"wallpaper":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/BingWallpaper (2).jpg",
+"wallpaper":"https://7ed.net/bing/api",
 "sites":[
 //001
 
@@ -640,6 +640,7 @@
 {"name":"嗨解析","type":0,"url":"https://t1.qlplayer.cyou/player/?url="},
 {"name":"虾米解析","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"虾米解析2","type":0,"url":"https://jx.m3u8.pw/?url="},
+{"name":"白嫖解析","type":0,"url":"https://www.baipiao-ys.cc:6062/player/?url="},
 
 {"name":"🌎my","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2334&my=fhloqstzDIKLMORTZ9&url=","ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
