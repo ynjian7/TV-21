@@ -21,7 +21,7 @@
 {"key":"csp_xb_rebozj","name":"10589","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a"},
 {"key":"csp_xb_gzy","name":"10585","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.nkvod.us/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_gzy","name":"10587","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zhuiyingmao2.com/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_fbeiju","name":"43029","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.boi7.com/l/{cateId}--------{catePg}---.html"},
+//{"key":"csp_xb_fbeiju","name":"43029","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.boi7.com/l/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_shgou","name":"43031","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.mgw4.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_guiyy","name":"43034","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.wuguiyy.cc/show/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_smdy","name":"43035","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.smdy93.com/vod-show-{cateId}--------{catePg}---.html"},
