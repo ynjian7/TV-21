@@ -14,14 +14,17 @@
 "lives":[{"name":"0","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://7ed.net/bing/api",
 "sites":[
-
+{"key": "鑫鑫影视","name": "首页","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
+{"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.6080yy4.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key": "csp_MeiJu69","name": 六九美剧,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
+{"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"csp_xb_/sigudyy","name":"邵氏电影","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.okdy123.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_gzy","name":"10512","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
 {"key":"csp_xb_dgfa","name":"95010","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
 {"key":"csp_xb_pcfp","name":"95011","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key":"csp_xb_gczy","name":"10565","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
 {"key":"csp_xb_daefa","name":"95020","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html"},
 {"key":"csp_xb_pefp","name":"95030","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.njshunma.com/index.php/vod/type/id/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html"},
-{"key":"csp_xb_/sigudyy","name":"邵氏电影","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.okdy123.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_gzy","name":"10567","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://vyanke.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_gazy","name":"10568","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.80s10.com/newshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_gazy","name":"10566","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.kanxige.com/tags/{cateId}--------{catePg}---.html"},
@@ -78,10 +81,6 @@
 {"key":"csp_xb_pa8fei","name":"43001","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.weihuafrp.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_psbfei","name":"43004","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.iuys.cc/vodshow/{cateId}--------{catePg}---.html"},
 {"key":"csp_xb_pibfei","name":"43005","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc3.cc/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"新视觉","name":"新视觉","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.6080yy4.com/vodshow/{cateId}--------{catePg}---.html"},
-{"key": "csp_MeiJu69","name": 六九美剧,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
-{"key": "鑫鑫影视","name": "鑫鑫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-{"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key": "csp_New6v","name": "6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com/"}
 ],
