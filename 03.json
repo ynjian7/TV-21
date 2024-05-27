@@ -1,15 +1,14 @@
 
 {
   "sites": [
+
+{"key":"vdf","name":"vdf","type":1,"api":"https://www.vdfvnjef165.icu/","searchable":1,"quickSearch":1},
 {"key":"sl","name":"sl","type":1,"api":"https://slapibf.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"ys","name":"ys","type":1,"api":"https://www.yszy02.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 {"key":"bl","name":bl","type":1,"api":"https://bljiex.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xb_zkck4","name":"12055","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.tianlong77.com/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_zkek5","name":"12056","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://939394.xyz/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_ad2y","name":"01056","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kanjua.com/{cateId}--------{catePg}---.html"},
 {"key":"jk","name":"jk","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
-
+{"key":"xing","name":"xing","type":1,"api":"https://xingse21.life/index.php/vod/","searchable":1,"quickSearch":1},
+{"key":"siwazyw","name":"siwazyw","type":1,"api":"https://siwazyw.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"ap","name":"ap","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"ao","name":"ao","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"bat ","name":"bat ","type":1,"api":"http://api.11bat.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
