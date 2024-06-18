@@ -1,6 +1,7 @@
-"wallpaper":"https://7ed.net/bing/api","spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
-
-
+{
+"spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
+"lives":[{"name":"0","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"wallpaper":"https://7ed.net/bing/api",
 
 
 "sites":[
