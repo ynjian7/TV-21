@@ -5,7 +5,7 @@
 "lives":[{"name":"0","type":0,"url":"https://github.com/qjlxg2008/TV/raw/main/list.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},{https://github.com/qjlxg/freeiptv/raw/master/all.m3u},{https://iptv.org.ua/iptv/avto-full.m3u},{https://iptv.org.ua/iptv/ua.m3u},{https://sub.xn--9sw509f.eu.org/auto}],
 "wallpaper":"https://7ed.net/bing/api",
 "sites":[
-{"key": "MeiJu69","name": 六九美剧,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
+{"key": "MeiJu69","name": "六九美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 {"key": "鑫鑫影视","name": "鑫鑫","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"酷影视","name":"酷影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"csp_xb_pefp","name":"95030","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.njshunma.com/index.php/vod/type/id/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html"},
