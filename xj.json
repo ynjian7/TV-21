@@ -3,62 +3,47 @@
 {
 "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar#https://ghproxy.net/raw.githubusercontent.com/qjlxg2008/TV/main/spider.jar",
 
- "lives":[
-  {
-      "name": "中国",
-      "type": 0,
-      "url": "https://github.com/qjlxg2008/TV/raw/main/list.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+"lives": [
+        {
+            "name": "中国",
+            "type": 0,
+            "url": "https://github.com/qjlxg2008/TV/raw/main/list.txt",
+            "playerType": 1
+        },
+      {
+            "name": "俄国",
+            "type": 0,
+            "url": "https://iptv.org.ua/iptv/avto-full.m3u",
+            "playerType": 2
+        },
  {
-      "name": "俄国",
-      "type": 0,
-      "url": "https://iptv.org.ua/iptv/avto-full.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-  {
-      "name": "其它",
-      "type": 0,
-      "url": "https://github.com/qjlxg/freeiptv/raw/master/all.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+            "name": "乌克兰",
+            "type": 0,
+            "url": "https://iptv.org.ua/iptv/ua.m3u",
+            "playerType": 3
+        },
  {
-      "name": "乌克兰",
-      "type": 0,
-      "url": "https://iptv.org.ua/iptv/ua.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+            "name": "其它",
+            "type": 0,
+            "url": "https://github.com/qjlxg/freeiptv/raw/master/all.m3u",
+            "playerType": 4
+        },
  {
-      "name": "电影",
-      "type": 0,
-      "url": "https://iptv.org.ua/iptv/kino-plus.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+            "name": "电影",
+            "type": 0,
+            "url": "https://iptv.org.ua/iptv/kino-plus.m3u",
+            "playerType": 5
+        },
  {
-      "name": "其它",
-      "type": 0,
-      "url": "https://github.com/qjlxg/IPTV/raw/master/playlist.m3u8",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-"wallpaper":"https://7ed.net/bing/api"]
+            "name": "其它",
+            "type": 0,
+            "url": "https://github.com/qjlxg/IPTV/raw/master/playlist.m3u8",
+            "playerType": 6
+        },
+
+    ],
+
+"wallpaper":"https://7ed.net/bing/api",
 
 "sites":[
 {"key": "MeiJu69","name": "六九美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
