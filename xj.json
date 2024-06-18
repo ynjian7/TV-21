@@ -58,7 +58,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-"wallpaper":"https://7ed.net/bing/api"]，
+"wallpaper":"https://7ed.net/bing/api"]
 
 "sites":[
 {"key": "MeiJu69","name": "六九美剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
